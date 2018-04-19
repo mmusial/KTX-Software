@@ -39,6 +39,10 @@
 /build/xcode/*/*.xcodeproj/project.xcworkspace
 /build/xcode/*/*.xcodeproj/xcuserdata
 
+# Android
+/build/android/libs
+/build/android/obj
+
 # /include/
 /include/imdebug.h
 
